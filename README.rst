@@ -27,3 +27,9 @@ You may not reproduce copyright images without their owner's permission,
 except in "fair use" cases,
 or you could risk running into lawyer's warnings, cease-and-desist letters, and copyright suits.
 Please be very careful before its usage! Use this script/code only for educational purposes.
+
+
+Run
+====
+# python3 bing.py -l 10 -u "https://www.bing.com/images/search?q=apple"
+# python3 bing.py -l 201 -u 'https://www.bing.com/images/search?q=purell' --image_directory purell -k tamil --chromedriver '/usr/local/bin/chromedriver'
